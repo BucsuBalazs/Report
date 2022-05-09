@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "report-1d85c": {
+      "hosting": {
+        "menu": [
+          "report-1d85c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "report-1d85c"
+  }
+}
